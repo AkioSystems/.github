@@ -2,7 +2,7 @@
 > 
 > We are currently working on porting all our projects to Rust including building our own infrastructure in Rust. AkjoNav and all other projects have been privated until we have ported all of the projects and laid the groundwork for our infrastructure!
 > 
-> We also are in the process of changing our name from AkjoStudios to Akio Studios to make it easier to work with and to make it easier pronouncable for english speakers.
+> We also are in the process of changing our name from AkjoStudios to Akio Systems to make it easier to work with and to make it easier pronouncable for english speakers.
 
 ## Akio Systems - Welcome 👋
 
