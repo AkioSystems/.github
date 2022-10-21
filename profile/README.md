@@ -4,8 +4,8 @@
 > 
 > We also are in the process of changing our name from AkjoStudios to Akio Systems to make it easier to work with and to make it easier pronouncable for english speakers.
 
-## Akio Systems - Welcome 👋
+## Akjo Studios - Welcome 👋
 
-Hi there! We are Akio Systems, building stable and modern applications using Rust that can be used by anyone on earth and beyond! We will have more info about us soon including what we do exactly, how *you* can help and contribute to our projects and other useful resources.
+Hi there! We are Akjo Studios, building stable and modern applications using Rust that can be used by anyone on earth and beyond! We will have more info about us soon including what we do exactly, how *you* can help and contribute to our projects and other useful resources.
 
 If you have any questions that you need answered right now, please email us at [akjostudios@gmx.net](mailto:akjostudios@gmx.net).
