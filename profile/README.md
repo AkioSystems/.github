@@ -1,6 +1,6 @@
 > **Note** 
 > 
-> We are currently working on porting all our projects to Rust including building our own infrastructure in Rust. AkjoNav and all other projects have been privated until we have ported all of the projects and laid the groundwork for our infrastructure!
+> We are currently working on porting all our projects to Rust including building our own infrastructure in Rust. AkjoNav and all other projects have been made read-only until we have ported all of the projects and laid the groundwork for our infrastructure!
 
 ## Akjo Studios - Welcome 👋
 
